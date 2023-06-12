@@ -1,1 +1,3 @@
 https://github.com/ramagalhaes/sistematizacao-web
+
+recomendo rodar o projeto atraves do vscode, utilizando a extensao live server, para que a API possa ser chamada com sucesso e o efeito de contagem dos numeros aconteca
